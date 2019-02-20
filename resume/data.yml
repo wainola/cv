@@ -4,16 +4,20 @@ name:
   middle:
   last: Riquelme
 about: Reader, Cyclist, Programmer. Javascript, React, NodeJS, Go'.
-position: Frontend Developer
+position: Fullstack Developer
 
 birth:
   year: 1987
   location: Santiago
 
 experience:
+- company: Acid Labs
+  position: Software Engineer
+  timeperiod: since October 2018
+  description: Fullstack developer. Working on NodeJS and ReactJS.
 - company: Lóbulo Media
   position: Frontend Developer
-  timeperiod: since May 2018
+  timeperiod: May 2018 - September 2018
   description: Frontend developer. Building internal tools on ReactJS and NodeJS.
 
 - company: Santiagolab
@@ -37,21 +41,19 @@ education:
 
 # skill level goes 0 to 100
 skills:
-- name: HTML5
-  level: 99
-- name: CSS3
-  level: 55
-- name: JavaScript
-  level: 90
-- name: Node.js
-  level: 90
-- name: ReactJS
-  level: 75
-- name: ES.Next
-  level: 70
-- name: Go
+- name: HTML5/CSS3
   level: 60
-- name: Ruby
+- name: JavaScript
+  level: 75
+- name: Node.js
+  level: 65
+- name: ReactJS
+  level: 65
+- name: Go
+  level: 30
+- name: Docker
+  level: 55
+- name: Linux
   level: 45
 knowledge: Knowledge in Algorithms, Data Structures 
   (English and Klingon).

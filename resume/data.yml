@@ -14,7 +14,8 @@ experience:
 - company: Acid Labs
   position: Software Engineer
   timeperiod: since October 2018
-  description: Fullstack developer. Working on NodeJS and ReactJS.
+  description: Working on NodeJS, ReactJS.
+
 - company: Lóbulo Media
   position: Frontend Developer
   timeperiod: May 2018 - September 2018
@@ -52,9 +53,9 @@ skills:
 - name: Go
   level: 30
 - name: Docker
-  level: 55
-- name: Linux
   level: 45
+- name: Linux
+  level: 55
 knowledge: Knowledge in Algorithms, Data Structures 
   (English and Klingon).
 

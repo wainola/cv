@@ -23,6 +23,7 @@
 <br>
 
 <p align="left">
+<img src="src/assets/preview/resume-creative.png" width="150" style="margin-right:5px; border: 1px solid #ccc;" />
 <img src="src/assets/preview/resume-purple.png" width="150" style="margin-right:5px; border: 1px solid #ccc;" />
 <img src="src/assets/preview/resume-side-bar-rtl.png" width="150" style="margin-right:5px; border: 1px solid #ccc;" />
 <img src="src/assets/preview/resume-left-right-rtl.png" width="150" style="margin-right:5px; border: 1px solid #ccc;" />
@@ -30,6 +31,7 @@
 <img src="src/assets/preview/resume-left-right.png" width="150" style="margin-right:5px; border: 1px solid #ccc;" />
 <img src="src/assets/preview/resume-side-bar.png" width="150" style="margin-right:5px; border: 1px solid #ccc;" />
 <img src="src/assets/preview/resume-oblique.png" width="150" style="margin-right:5px; border: 1px solid #ccc;" />
+<img src="src/assets/preview/resume-cool.png" width="150" style="margin-right:5px; border: 1px solid #ccc;" />
 </p>
 
 <br>
@@ -46,14 +48,19 @@
 best-resume-ever requires at least node v.8.5.0.
 
 1. Clone this repository.
+```
+git clone https://github.com/salomonelli/best-resume-ever
+```
 
-2. Run `npm install`.
+2. Go to the cloned directory (e.g. `cd best-resume-ever`).
 
-3. Customize your resume in the `resume/` directory: edit your data `data.yml` and replace your profile-picture `id.jpg`.
+3. Run `npm install`.
 
-4. Preview resumes with `npm run dev`.
+4. Customize your resume in the `resume/` directory: edit your data `data.yml` and replace your profile-picture `id.jpg`.
 
-5. Export with `npm run export`.
+5. Preview resumes with `npm run dev`.
+
+6. Export with `npm run export`.
 
 
 All resumes will be exported to the `pdf/` folder.
@@ -91,3 +98,8 @@ This project uses several open source packages:
 > [sarasteiert.com](https://www.sarasteiert.com) &nbsp;&middot;&nbsp;
 > GitHub [@salomonelli](https://github.com/salomonelli) &nbsp;&middot;&nbsp;
 > Twitter [@salomonelli](https://twitter.com/salomonelli)
+
+
+## License
+
+[MIT](https://github.com/salomonelli/best-resume-ever/blob/master/LICENCE.md)

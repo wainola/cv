@@ -3,7 +3,7 @@ name:
   first: Nicolás
   middle:
   last: Riquelme
-about: Reader, Cyclist, Programmer. Javascript, React, NodeJS, Go'.
+about: Reader, Cyclist, Programmer. Javascript, React, NodeJS.
 position: Fullstack Developer
 
 birth:
@@ -11,9 +11,13 @@ birth:
   location: Santiago
 
 experience:
+- company: Globant
+  position: Web UI Engineer
+  timeperiod: since April 2019
+  description: Working on ReactJS for NatGeo.
 - company: Acid Labs
   position: Software Engineer
-  timeperiod: since October 2018
+  timeperiod: October 2018 - March 2019
   description: Working on NodeJS and ReactJS.
 
 - company: Lóbulo Media
@@ -50,20 +54,11 @@ skills:
   level: 65
 - name: ReactJS
   level: 65
-- name: Go
-  level: 30
 - name: Docker
-  level: 45
+  level: 30
 - name: Linux
   level: 55
-knowledge: Knowledge in Algorithms, Data Structures 
-  (English and Klingon).
-
-projects:
-- name: best-resume-ever
-  platform: Vue
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-  url: https://github.com/salomonelli/best-resume-ever
+knowledge: English
 
 hobbies:
 - name: Video Games
@@ -74,17 +69,11 @@ hobbies:
   iconClass: fa fa-pencil
   url: https://example.com
 
-contributions:
-- name: best-resume-ever
-  description: 👔 💼 Build fast 🚀 and easy multiple beautiful resumes.
-  url: https://github.com/salomonelli/best-resume-ever
-
 contact:
   email: nrriquelme@gmail.com
   phone: +569 8318 4202
-  street: 569, Eduardo Castillo Velasco Street
+  street: 2250, California Street.
   city: Santiago
-  website: https://nrriquelmeg.cl
   github: wainola
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
 lang: en

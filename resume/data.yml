@@ -4,7 +4,7 @@ name:
   middle:
   last: Riquelme
 about: Reader, Cyclist, Programmer. Javascript, React, NodeJS.
-position: Fullstack Developer
+position: Javascript Developer
 
 birth:
   year: 1987
@@ -14,11 +14,15 @@ experience:
 - company: Globant
   position: Web UI Engineer
   timeperiod: since April 2019
-  description: Working on ReactJS for NatGeo.
+  description: Working NextJS & NodeJS for Latam Airlines
+- company: Globant
+  position: Web UI Engineer
+  timeperiod: since April 2019
+  description: I worked on ReactJS for NatGeo.
 - company: Acid Labs
   position: Software Engineer
   timeperiod: October 2018 - March 2019
-  description: Working on NodeJS and ReactJS.
+  description: I worked on NodeJS and ReactJS.
 
 - company: Lóbulo Media
   position: Frontend Developer
@@ -54,6 +58,10 @@ skills:
   level: 65
 - name: ReactJS
   level: 65
+- name: NextJS
+  level: 70
+- name: Styled Components
+  leve: 60
 - name: Docker
   level: 30
 - name: Linux
